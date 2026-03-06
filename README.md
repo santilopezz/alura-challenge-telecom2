@@ -1,1 +1,1 @@
-# alura-challenge-telecom2
+# Estado del proyecto: finalizado
